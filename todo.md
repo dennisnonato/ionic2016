@@ -1,5 +1,21 @@
 # Todo List
-- [x] Apresentação do Conteúdo Programático
-- [X] Apresentação do Conteúdo Programático
-- [X] Criação de um projeto
-- [ ] Configuração do GitHub
+- [ ] Semana 01 - Apresentação do Conteúdo Programático e WireFrame
+- [ ] Semana 02 - Configurando o ambiente de desenvolvimento
+- [ ] Semana 03 - Criando, executando e publicando um aplicativo
+- [ ] Semana 04 - Configuração do Git e GitHub
+- [ ] Semana 05 - Introdução ao AngularJS
+- [ ] Semana 06 - Criando e exibindo uma lista no aplicativo usando AngularJS
+- [ ] Semana 07 - Editando e apagando um item da lista
+- [ ] Semana 08 - Criando rotas e navegando entre telas
+- [ ] Semana 09 - Inserindo itens (cadastro) a partir de um formulário
+- [ ] Semana 10 - Realizando a passagem de parâmetros
+- [ ] Semana 11 - Realizando o armazenamento persistente (localStorage)
+- [ ] Semana 12 - Implementação do Web Service (NodeJS)
+- [ ] Semana 13 - Realizando a consulta de uma lista em um Web Service
+- [ ] Semana 14 - Manipulando dados (CRUD) no aplicativo usando Web Service
+- [ ] Semana 15 - Autenticando um usuário (Login)
+- [ ] Semana 16 - Criando um aplicativo com várias telas (tabs)
+- [ ] Semana 17 - Plugins do Cordova: Utilizando a Câmera
+- [ ] Semana 18 - Criando um projeto com Mapa (Google Maps)
+- [ ] Semana 19 - Apresentação dos Projetos
+- [ ] Semana 20 - Exame Final
