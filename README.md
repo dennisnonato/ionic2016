@@ -1,13 +1,6 @@
 # ionic-2016
 ## Programação para Dispositivos Móveis
 
-  $ Hello World!
-  
-  
-$ sudo make install
-
-
-
 Repositório com o projeto da disciplina de `Programação para Dispositivos Móveis`, da FATEC Rio Preto, ministrada pelo Prof. Dr. Henrique Dezani
 
 Mais informações sobre o professor em sua página: http://www.dezani.com.br
@@ -15,6 +8,7 @@ Mais informações sobre o professor em sua página: http://www.dezani.com.br
 Veja o arquivo [todo.md](https://github.com/henriquedezani/ionic-2016/blob/master/todo.md) com o conteúdo programático e os itens já abordados durante o curso.
 
 ###Critérios de Avaliação:
+$sudo make install
 
 Média Final = (Trabalhos em Classe * 0.5) + (Projeto * 0.5)
 
