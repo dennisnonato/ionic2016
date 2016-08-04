@@ -1,15 +1,17 @@
 # ionic-2016
+## Programação para Dispositivos Móveis
+
 Repositório com o projeto da disciplina de "Programação para Dispositivos Móveis", da FATEC Rio Preto, ministrada pelo Prof. Dr. Henrique Dezani
 
 Mais informações sobre o professor em: http://www.dezani.com.br
 
 Veja o arquivo todo.md com o conteúdo programático e os itens já abordados durante o curso.
 
-Critérios de Avaliação:
+###Critérios de Avaliação:
 
 Média Final = (Trabalhos em Classe * 0.5) + (Projeto * 0.5)
 
-Referências Bibliográficas:
+###Referências Bibliográficas:
 
 - Seshadri, Shyam; Green, Brad. Desenvolvendo com AngularJS. Editora Novatec, 2014.
 - Lopes, Sérgio. Aplicações mobile híbridas com Cordova e PhoneGap, Editora Casa do Código, 2016.
