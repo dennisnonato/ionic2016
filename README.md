@@ -1,4 +1,4 @@
-# ionic-2016
+# ionic2016
 ## Programação para Dispositivos Móveis
 
 Repositório com o projeto da disciplina de `Programação para Dispositivos Móveis`, da FATEC Rio Preto, ministrada pelo Prof. Dr. Henrique Dezani
