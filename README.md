@@ -2,6 +2,11 @@
 ## Programação para Dispositivos Móveis
 
   $ Hello World!
+  
+  
+$ sudo make install
+
+
 
 Repositório com o projeto da disciplina de `Programação para Dispositivos Móveis`, da FATEC Rio Preto, ministrada pelo Prof. Dr. Henrique Dezani
 
