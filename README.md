@@ -4,3 +4,18 @@ Repositório com o projeto da disciplina de "Programação para Dispositivos Mó
 Mais informações sobre o professor em: http://www.dezani.com.br
 
 Veja o arquivo todo.md com o conteúdo programático e os itens já abordados durante o curso.
+
+Critérios de Avaliação:
+
+Média Final = (Trabalhos em Classe * 0.5) + (Projeto * 0.5)
+
+Referências Bibliográficas:
+
+- Seshadri, Shyam; Green, Brad. Desenvolvendo com AngularJS. Editora Novatec, 2014.
+- Lopes, Sérgio. Aplicações mobile híbridas com Cordova e PhoneGap, Editora Casa do Código, 2016.
+- Pereira, Caio Ribeiro. Aplicações web real-time com Node.js. Editora Casa do Código, 2013.
+- http://www.dezani.com.br
+- https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+- http://www.ionicframework.com
+- https://ionic.io/ (Ionic View, Ionic Lab e Ionic Creator)
+- https://nodejs.org
