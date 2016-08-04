@@ -20,8 +20,9 @@ O projeto consiste no desenvolvimento de um aplicativo usando as tecnologias dad
 - Seshadri, Shyam; Green, Brad. Desenvolvendo com AngularJS. Editora Novatec, 2014.
 - Lopes, Sérgio. Aplicações mobile híbridas com Cordova e PhoneGap, Editora Casa do Código, 2016.
 - Pereira, Caio Ribeiro. Aplicações web real-time com Node.js. Editora Casa do Código, 2013.
-- http://www.dezani.com.br
-- https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
-- http://www.ionicframework.com
-- https://ionic.io/ (Ionic View, Ionic Lab e Ionic Creator)
-- https://nodejs.org
+- [Prof. Dr. Henrique Dezani] (http://www.dezani.com.br)
+- [Documentação Git] (https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+- [Ionic Framework] (http://www.ionicframework.com)
+- [Ionic.io] (https://ionic.io/)
+- [Nodejs] (https://nodejs.org)
+- [Visual Studio Code] (https://www.visualstudio.com/products/code-vs)
