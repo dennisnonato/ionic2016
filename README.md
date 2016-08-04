@@ -5,11 +5,15 @@ Repositório com o projeto da disciplina de `Programação para Dispositivos Mó
 
 Mais informações sobre o professor em sua página: http://www.dezani.com.br
 
-Veja o arquivo [todo.md](https://github.com/henriquedezani/ionic2016/blob/master/todo.md) com o conteúdo programático e os itens já abordados durante o curso.
+Veja o arquivo [Conteúdo Programático](https://github.com/henriquedezani/ionic2016/blob/master/todo.md).
 
 ###Critérios de Avaliação:
 
 Média Final = (Trabalhos em Classe * 0.5) + (Projeto * 0.5)
+
+Os trabalhos em classe envolvem o desenvolvimento de funcionalidades ao sistema exemplo dado em sala de aula. Estas funcionalidades incluem exercícios em classe e também conteúdos extras. Este trabalho é individual.
+
+O projeto consiste no desenvolvimento de um aplicativo usando as tecnologias dadas em classe.
 
 ###Referências Bibliográficas:
 
