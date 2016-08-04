@@ -8,7 +8,6 @@ Mais informações sobre o professor em sua página: http://www.dezani.com.br
 Veja o arquivo [todo.md](https://github.com/henriquedezani/ionic-2016/blob/master/todo.md) com o conteúdo programático e os itens já abordados durante o curso.
 
 ###Critérios de Avaliação:
-$sudo make install
 
 Média Final = (Trabalhos em Classe * 0.5) + (Projeto * 0.5)
 
